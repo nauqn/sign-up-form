@@ -1,5 +1,5 @@
 # sign-up-form
-Odin Project. Sign up Form project 
+Sign up Form Practice Project 
 
 Intermediate HTML and CSS Course.
 https://www.theodinproject.com/lessons/node-path-intermediate-html-and-css-sign-up-form
